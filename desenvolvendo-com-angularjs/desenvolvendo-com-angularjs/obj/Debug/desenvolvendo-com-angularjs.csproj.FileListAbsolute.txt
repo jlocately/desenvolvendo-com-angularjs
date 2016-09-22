@@ -1,0 +1,5 @@
+D:\JLOCATELY\9. PESSOAL\GitHub\desenvolvendo-com-angularjs\desenvolvendo-com-angularjs\desenvolvendo-com-angularjs\bin\desenvolvendo-com-angularjs.dll
+D:\JLOCATELY\9. PESSOAL\GitHub\desenvolvendo-com-angularjs\desenvolvendo-com-angularjs\desenvolvendo-com-angularjs\bin\desenvolvendo-com-angularjs.pdb
+D:\JLOCATELY\9. PESSOAL\GitHub\desenvolvendo-com-angularjs\desenvolvendo-com-angularjs\desenvolvendo-com-angularjs\obj\Debug\desenvolvendo-com-angularjs.csprojResolveAssemblyReference.cache
+D:\JLOCATELY\9. PESSOAL\GitHub\desenvolvendo-com-angularjs\desenvolvendo-com-angularjs\desenvolvendo-com-angularjs\obj\Debug\desenvolvendo-com-angularjs.dll
+D:\JLOCATELY\9. PESSOAL\GitHub\desenvolvendo-com-angularjs\desenvolvendo-com-angularjs\desenvolvendo-com-angularjs\obj\Debug\desenvolvendo-com-angularjs.pdb

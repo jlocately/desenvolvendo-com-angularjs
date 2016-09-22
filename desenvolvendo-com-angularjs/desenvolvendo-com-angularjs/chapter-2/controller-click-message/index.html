@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" ng-app="notesApp">
+<head>
+    <title>Notes App</title>
+</head>
+<body ng-controller="MainCtrl as ctrl">
+    {{ctrl.message}} João Paulo    
+
+    <button  ng-click="ctrl.changeMessage()">Change Message</button>
+
+    <script src="../../content/js/angular.min.js"></script>
+    <script>
+        angular.module("notesApp", [])
+            .controller("MainCtrl", [function () {
+                var self = this;
+                self.message = "Hello";
+                self.changeMessage = function () {
+                    console.log("teste");
+                    self.message = "Good Bye";
+                };
+            }]);
+    </script>
+</body>
+</html>
